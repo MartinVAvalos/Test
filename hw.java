@@ -5,5 +5,7 @@ public class hw
         System.out.println("Hello Bitch");
 		System.out.println("2nd line "); // to to push this line of code  status: failed to push through command 
 		out.println("This is modified through commands") //  status: granted, push was a success. edit this on github.com
+		
+		System.out.println("This is a test");
     }
 }
