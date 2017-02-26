@@ -8,5 +8,6 @@ public class hw
 		System.out.println("This is a test");
 		
 		System.out.println("Let it snow");
+		System.out.println("Let it snow");
     }
 }
