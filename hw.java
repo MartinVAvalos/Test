@@ -7,5 +7,6 @@ public class hw
 		out.println("This is modified through commands") //  status: granted, push was a success. edit this on github.com
 		
 		System.out.println("This is a test");
+		System.out.println("This is the 2nd test");
     }
 }
