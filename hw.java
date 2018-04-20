@@ -9,7 +9,6 @@ public class hw
 		
 		System.out.println("This is a test");
 		System.out.println("This is the 2nd test");
-        System.out.println("martin is a hoe");
         
         
     }
